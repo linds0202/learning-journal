@@ -77,7 +77,8 @@ nav {
     height: 100%;
     display: flex;
     padding-bottom: 2em;
-    padding-left: 4em;
+    padding-left: 2em;
+    padding-right: 2em;
     flex-direction: column;
     justify-content: flex-end;
     gap: .5em;
